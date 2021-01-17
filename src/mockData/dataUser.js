@@ -1,0 +1,42 @@
+export const dataUser = [
+  {
+    id: 1,
+    isEdit: false,
+    checked: false,
+    fullName: "Trương Minh Hiệu",
+    gender: "male",
+    age: 18,
+  },
+  {
+    id: 2,
+    isEdit: false,
+    checked: false,
+    fullName: "Nguyễn Đức Thái",
+    gender: "male",
+    age: 21,
+  },
+  {
+    id: 3,
+    isEdit: true,
+    checked: true,
+    fullName: "Phạm Thị Quỳnh Trang",
+    gender: "female",
+    age: 24,
+  },
+  {
+    id: 4,
+    isEdit: true,
+    checked: false,
+    fullName: "Nguyễn Thị Thương",
+    gender: "female",
+    age: 12,
+  },
+  {
+    id: 5,
+    isEdit: false,
+    checked: false,
+    fullName: "Nguyễn Văn Duy",
+    gender: "male",
+    age: 18,
+  },
+];
